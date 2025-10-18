@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="5367172" tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjQlMkY4JTJGYXR0STRkdlNZT3pEV3l1bnQuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI0JTJGOCUyRmF0dHhVY2k0Q0tyNWlsN2dYLmpwZ1x1MDAyNmJhZGdlPWxpdmVcdTAwMjZjb21wQ29sb3I9MDcxODQ4XHUwMDI2Y29tcExvZ289JTJGY21zJTJGMjAyNCUyRjglMkZhdHRSYkpSUE5KMzJ0TWZPcy5wbmdcdTAwMjZkZXNjPVdSQyslRTIlODAlQTIrUjEyXHUwMDI2aDE9Q2VudHJhbCtFdXJvcGVcdTAwMjZoMj1TUzEwK0xpdmUrU3RhZ2VcdTAwMjZsaXZlRW5kRGF0ZT0wXHUwMDI2bGl2ZVN0YXJ0RGF0ZT0xNzYwNzc2MjA5MDAwXHUwMDI2cGljPU1vdG9yc3BvcnRcdTAwMjZ0ZW1wbGF0ZT1iYXNpYy1sYW5kc2NhcGUifQ.FDyMtcevYsgpw8cEy5aaMwoNQ0posBA0pe6q7XKxmBw" group-title="Live",SS10 Keply 1 - WRC Central Europe 2025
+#EXTINF:-1 tvg-id="5486787" tvg-logo="https://streamcoimg-a.akamaihd.net/000/548/6787/5486787-Banner-L2-f038f3ae562117ed61827cc216b3b421.jpg~liveStartDate=1760783415000~liveEndDate=0~badge=live" group-title="Live",Nottingham Forest v Chelsea - Premier League 2025/2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5e310b513d78491fa2247ad07dc79de4:6d50ec1a94da3bd9a96a6e84452d0879
-https://awslive01.stan.video/out/v1/4800c5edc2f94573b8f2e611ecd3400a/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=0629d0e059fc4cab9b122cbe04fe38de:a8f41c3e84318dfb42dbcda5afba5198
+https://awslive02.stan.video/out/v1/b74823a94f19474087dd146f480e9804/index.mpd
