@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="5486830" tvg-logo="https://streamcoimg-a.akamaihd.net/000/548/6830/5486830-Banner-L2-e9271501acdc69437e7e6a582b0df0b9.jpg~liveStartDate=1760804392000~liveEndDate=0~badge=live" group-title="Live",Fulham v Arsenal - Premier League 2025/2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=21163491b53f41b1a759e77a8543bf50:ab16c1924aec8e6edaf05894ae2c7a8a
-https://awslive01.stan.video/out/v1/6206d5a58052434ca99947508d84cb06/index.mpd
-
 #EXTINF:-1 tvg-id="5624833" tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY2JTJGYXR0bnp6Y09tbjhxbnN3TGEuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNiUyRmF0dHlkWGZPeXV0RnFuNmtULmpwZ1x1MDAyNmJhZGdlPWxpdmVcdTAwMjZjb21wQ29sb3I9MDVGMEZGXHUwMDI2Y29tcExvZ289JTJGY21zJTJGMjAyNSUyRjYlMkZhdHQ3b3pqckc0WVlvN3JGTy5wbmdcdTAwMjZkZXNjPVByZW1pZXIrTGVhZ3VlKyVFMiU4MCVBMitNVys4XHUwMDI2aDE9Rm9vdGJhbGxcdTAwMjZoMj1QcmVtaWVyK0xlYWd1ZVx1MDAyNmxpdmVFbmREYXRlPTBcdTAwMjZsaXZlU3RhcnREYXRlPTE3NjA4MDQ0MDEwMDBcdTAwMjZsb2dvMT0lMkZjbXMlMkYyMDI1JTJGNiUyRmF0dDVJU0lrbml0cnVhdTkwLnBuZ1x1MDAyNmxvZ28yPSUyRmNtcyUyRjIwMjUlMkY2JTJGYXR0YTJ4M1dJcTFyb2paaVAucG5nXHUwMDI2cGljPUZvb3RiYWxsXHUwMDI2cXVhbGl0eT11aGRcdTAwMjZ0ZWFtMT1GdWxoYW1cdTAwMjZ0ZWFtMj1BcnNlbmFsXHUwMDI2dGVtcGxhdGU9dGVhbXZ0ZWFtLWxhbmRzY2FwZSJ9.CjW-AxaWCJ46JWEe1MMAH9x3CImGHsd8SowG2iiQmnU" group-title="Live",4k - Fulham v Arsenal - Premier League 2025/2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
