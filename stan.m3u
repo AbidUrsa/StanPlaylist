@@ -1,1 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="5624832" tvg-logo="https://streamcoimg-a.akamaihd.net/000/562/4832/5624832-Banner-L2-3df0a920707f8fd805f7bf5435d4f22d.jpg~liveStartDate=1760795800000~liveEndDate=0~badge=live" group-title="Live",Goal Rush - Oct 19 Premier League 2025/26
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d50bb747c00490e9f9a7b0cd11977a2:c27937d4f8550cd4602d8a08078a05c7
+https://awslive02.stan.video/out/v1/94977b9f8be541089b417821573e2a60/index.mpd
+
+#EXTINF:-1 tvg-id="5452456" tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY2JTJGYXR0Z2NWM3B6ZnY1ZFFHUEIuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNiUyRmF0dFBiT2ZBQ0VzSHVxMmxLLmpwZ1x1MDAyNmJhZGdlPWxpdmVcdTAwMjZjb21wQ29sb3I9MDcxYTE4XHUwMDI2Y29tcExvZ289JTJGY21zJTJGMjAyNSUyRjYlMkZhdHRacEl1WmNUQ29ibkZNdy5wbmdcdTAwMjZoMT1Sb3VuZCszXHUwMDI2aDI9UEZMK0FmcmljYSszXHUwMDI2bGl2ZUVuZERhdGU9MFx1MDAyNmxpdmVTdGFydERhdGU9MTc2MDgwMzIyMTAwMFx1MDAyNnBpYz1Db21iYXRcdTAwMjZ0ZW1wbGF0ZT1iYXNpYy1sYW5kc2NhcGUifQ.f9p9k1kr7NGeujlCPlpUSGbQw49KnUhi5r9FuWj8kk0" group-title="Live",PFL Africa 3 2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a9b600ac9c140caa31f3f3a4353029e:04b4891733338d590f12d6f42d3b9b6f
+https://awslive01.stan.video/out/v1/326884fdcbfe498eba218edc42bd756b/index.mpd
