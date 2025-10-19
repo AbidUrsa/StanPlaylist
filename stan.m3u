@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="5556563" tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjQlMkY4JTJGYXR0STRkdlNZT3pEV3l1bnQuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI0JTJGOCUyRmF0dHhVY2k0Q0tyNWlsN2dYLmpwZ1x1MDAyNmJhZGdlPWxpdmVcdTAwMjZjb21wQ29sb3I9MDcxODQ4XHUwMDI2Y29tcExvZ289JTJGY21zJTJGMjAyNCUyRjglMkZhdHRSYkpSUE5KMzJ0TWZPcy5wbmdcdTAwMjZkZXNjPVdSQyslRTIlODAlQTIrUjEyXHUwMDI2aDE9Q2VudHJhbCtFdXJvcGVcdTAwMjZoMj1TUzE4K0xpdmUrU3RhZ2VcdTAwMjZsaXZlRW5kRGF0ZT0wXHUwMDI2bGl2ZVN0YXJ0RGF0ZT0xNzYwODcxNjE2MDAwXHUwMDI2cGljPU1vdG9yc3BvcnRcdTAwMjZ0ZW1wbGF0ZT1iYXNpYy1sYW5kc2NhcGUifQ.A4DY-J69arR6zDBiqRoRFcPwuhH9QxvQCZ68QoAaBjo" group-title="Live",SS18 Muhtal 2 WOLF PS - WRC Central Europe 2025
+#EXTINF:-1 tvg-id="5486816" tvg-logo="https://streamcoimg-a.akamaihd.net/000/548/6816/5486816-Banner-L2-d83b1c527757c2de5c4f079635019a6c.jpg~liveStartDate=1760875210000~liveEndDate=0~badge=live" group-title="Live",Tottenham Hotspur v Aston Villa - Premier League 2025/2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9b21886f1c744ebca989bd58e467b327:1c3b1abd450f3bbc38907ce11eba9410
-https://awslive02.stan.video/out/v1/c83ca9a169c744649b143ac4fb6a94cb/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=efe12b282e844616a1d444dd0c785195:749b7b5b0782ab051811a179aef6945c
+https://awslive01.stan.video/out/v1/7ac8258d3e074d67b127081100770404/index.mpd
