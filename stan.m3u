@@ -1,1 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="5658371" tvg-logo="https://streamcoimg-a.akamaihd.net/000/565/8371/5658371-Banner-L2-4d261774790aa205d8f569af907a25af.jpg~liveStartDate=1760896802000~liveEndDate=0~badge=live" group-title="Live",PL Weekend Wrap: Episode 8 - Oct 20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=An error occurred parsing license content
+
+Expecting value: line 1 column 1 (char 0)
+
+b&#039;&lt;!DOCTYPE html&gt;\n&lt;html lang=&quot;en-us&quot;\n    prefix=&quot;content
+https://awslive02.stan.video/out/v1/ce06534d93ba43da917dd765619d2c7d/index.mpd
