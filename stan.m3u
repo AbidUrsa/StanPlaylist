@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="5486847" tvg-logo="https://streamcoimg-a.akamaihd.net/000/548/6847/5486847-Banner-L2-2689d10ed757530850536507f82b9927.jpg~liveStartDate=1760886342000~liveEndDate=0~badge=live" group-title="Live",Liverpool v Manchester United - Premier League 2025/2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=An error occurred parsing license content
+
+Expecting value: line 1 column 1 (char 0)
+
+b&#039;&lt;!DOCTYPE html&gt;\n&lt;html lang=&quot;en-us&quot;\n    prefix=&quot;content
+https://awslive01.stan.video/out/v1/d545e6f02ef34a40bd5459786ecc1e68/index.mpd
+
 #EXTINF:-1 tvg-id="5624834" tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY2JTJGYXR0bnp6Y09tbjhxbnN3TGEuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNiUyRmF0dHlkWGZPeXV0RnFuNmtULmpwZ1x1MDAyNmJhZGdlPWxpdmVcdTAwMjZjb21wQ29sb3I9MDVGMEZGXHUwMDI2Y29tcExvZ289JTJGY21zJTJGMjAyNSUyRjYlMkZhdHQ3b3pqckc0WVlvN3JGTy5wbmdcdTAwMjZkZXNjPVByZW1pZXIrTGVhZ3VlKyVFMiU4MCVBMitNVys4XHUwMDI2aDE9Rm9vdGJhbGxcdTAwMjZoMj1QcmVtaWVyK0xlYWd1ZVx1MDAyNmxpdmVFbmREYXRlPTBcdTAwMjZsaXZlU3RhcnREYXRlPTE3NjA4ODcyMDgwMDBcdTAwMjZsb2dvMT0lMkZjbXMlMkYyMDI1JTJGNiUyRmF0dHk5Rk1kMm4zRHpMR0dHLnBuZ1x1MDAyNmxvZ28yPSUyRmNtcyUyRjIwMjUlMkY2JTJGYXR0czVkV3U2OHlhaWNPUFMucG5nXHUwMDI2cGljPUZvb3RiYWxsXHUwMDI2cXVhbGl0eT11aGRcdTAwMjZ0ZWFtMT1MaXZlcnBvb2xcdTAwMjZ0ZWFtMj1NYW4rVW5pdGVkXHUwMDI2dGVtcGxhdGU9dGVhbXZ0ZWFtLWxhbmRzY2FwZSJ9.Gjfdb37AS9BRBb1g8OE6gNpFz1WhLMLdas5hNvnpeXs" group-title="Live",4k - Liverpool v Manchester United - Premier League 2025/2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
