@@ -1,10 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="5486831" tvg-logo="https://streamcoimg-a.akamaihd.net/000/548/6831/5486831-Banner-L2-a8aa68f835629117c9c7ab09542ac7b2.jpg~liveStartDate=1760985002000~liveEndDate=0~badge=live" group-title="Live",West Ham United v Brentford - Premier League 2025/2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=An error occurred parsing license content
-
-Expecting value: line 1 column 1 (char 0)
-
-b&#039;&lt;!DOCTYPE html&gt;\n&lt;html lang=&quot;en-us&quot;\n    prefix=&quot;content
-https://awslive01.stan.video/out/v1/c4b9547a56d04b25bf6ce3d2f5377f63/index.mpd
