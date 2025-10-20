@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="5507907" tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY3JTJGYXR0VnZEVlVubXpwczBhUWkuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNyUyRmF0dGE2Z0w1U2ZUaXJuN1FXLmpwZ1x1MDAyNmJhZGdlPWxpdmVcdTAwMjZjb21wQ29sb3I9RDUzMzNFXHUwMDI2Y29tcExvZ289JTJGY21zJTJGMjAyNSUyRjclMkZhdHRVbDFDZEZDWDBQcXlEOS5wbmdcdTAwMjZkZXNjPU5XU0wrJUUyJTgwJUEyK01XKzI1XHUwMDI2aDE9Rm9vdGJhbGxcdTAwMjZoMj1OV1NMXHUwMDI2bGl2ZUVuZERhdGU9MFx1MDAyNmxpdmVTdGFydERhdGU9MTc2MDkwNzY2NTAwMFx1MDAyNmxvZ28xPSUyRmNtcyUyRjIwMjUlMkY3JTJGYXR0YzZYMWs5aFp4NlJIQzkucG5nXHUwMDI2bG9nbzI9JTJGY21zJTJGMjAyNSUyRjclMkZhdHRETW1nUU9XT1J5cTR3RC5wbmdcdTAwMjZwaWM9Rm9vdGJhbGxcdTAwMjZ0ZWFtMT1BbmdlbCtDaXR5XHUwMDI2dGVhbTI9UG9ydGxhbmRcdTAwMjZ0ZW1wbGF0ZT10ZWFtdnRlYW0tbGFuZHNjYXBlIn0.XzOTO1VLnKQOiblxsPXN-lKLHafTP49OLtzDcH9Syq4" group-title="Live",Angel City FC v Portland Thorns FC - NWSL 2025
+#EXTINF:-1 tvg-id="5486831" tvg-logo="https://streamcoimg-a.akamaihd.net/000/548/6831/5486831-Banner-L2-a8aa68f835629117c9c7ab09542ac7b2.jpg~liveStartDate=1760985002000~liveEndDate=0~badge=live" group-title="Live",West Ham United v Brentford - Premier League 2025/2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=An error occurred parsing license content
@@ -7,4 +7,4 @@
 Expecting value: line 1 column 1 (char 0)
 
 b&#039;&lt;!DOCTYPE html&gt;\n&lt;html lang=&quot;en-us&quot;\n    prefix=&quot;content
-https://awslive01.stan.video/out/v1/31d91affe5a44fd2a89f25da795340ac/index.mpd
+https://awslive01.stan.video/out/v1/c4b9547a56d04b25bf6ce3d2f5377f63/index.mpd
