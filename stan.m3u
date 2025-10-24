@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="5486926" tvg-logo="https://streamcoimg-a.akamaihd.net/000/548/6926/5486926-Banner-L2-e9396704cf04be656e302ba278fb396c.jpg~liveStartDate=1761330608000~liveEndDate=0~badge=live" group-title="Live",Leeds United v West Ham United - Premier League 2025/2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e292c5b7bc6546ada1d05d73de64c47e:9a6bb52695673643f3f83d8438360b03
-https://awslive01.stan.video/out/v1/8a27bb09b6a146d781d69ac1a4e871e1/index.mpd
-
 #EXTINF:-1 tvg-id="5658936" tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkYxMCUyRmF0dFFkcnR4VHlBbXdBU2RhLmpwZ1x1MDAyNmJhY2tncm91bmRJbWdQb3N0ZXI9JTJGY21zJTJGMjAyNSUyRjEwJTJGYXR0R2tLVmxDQWFNRmFBNFcuanBnXHUwMDI2YmFkZ2U9bGl2ZVx1MDAyNmNvbXBDb2xvcj0zMjc4YzdcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGMTAlMkZhdHRFYzdYbWJ5WVJnZ2dPZS5wbmdcdTAwMjZkZXNjPVVDSStUcmFjaytXb3JsZCtDaGFtcGlvbnNoaXBzXHUwMDI2aDE9Q2hpbGVcdTAwMjZoMj1EYXkrM1x1MDAyNmxpdmVFbmREYXRlPTBcdTAwMjZsaXZlU3RhcnREYXRlPTE3NjEzMzU0MDYwMDBcdTAwMjZwaWM9Q3ljbGluZ1x1MDAyNnRlbXBsYXRlPWJhc2ljLWxhbmRzY2FwZSJ9.ud3xzP0I1JWBJ2qzHwlXkriUszIoGqblOYZg4_4W6mQ" group-title="Live",Day 3 - UCI Track World Championships
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
