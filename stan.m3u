@@ -1,1 +1,26 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="5486937" tvg-logo="https://streamcoimg-a.akamaihd.net/000/548/6937/5486937-Banner-L2-1b2d8f771837265f69b61a408c260cc6.jpg~liveStartDate=1761409381000~liveEndDate=0~badge=live" group-title="Live",Manchester United v Brighton & Hove Albion - Premier League 2025/2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a0307b12fbc4f168c788f5a0ab0f924:f9d97a63b1fbd32b674a609e7ff8e7c1
+https://awslive01.stan.video/out/v1/6de9f8eadfec4beea7fb4c206ca601dd/index.mpd
+
+#EXTINF:-1 tvg-id="5629250" tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY2JTJGYXR0bnp6Y09tbjhxbnN3TGEuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNiUyRmF0dHlkWGZPeXV0RnFuNmtULmpwZ1x1MDAyNmJhZGdlPWxpdmVcdTAwMjZjb21wQ29sb3I9MDVGMEZGXHUwMDI2Y29tcExvZ289JTJGY21zJTJGMjAyNSUyRjYlMkZhdHQ3b3pqckc0WVlvN3JGTy5wbmdcdTAwMjZkZXNjPVByZW1pZXIrTGVhZ3VlKyVFMiU4MCVBMitNVys5XHUwMDI2aDE9Rm9vdGJhbGxcdTAwMjZoMj1QcmVtaWVyK0xlYWd1ZVx1MDAyNmxpdmVFbmREYXRlPTBcdTAwMjZsaXZlU3RhcnREYXRlPTE3NjE0MDkyMTAwMDBcdTAwMjZsb2dvMT0lMkZjbXMlMkYyMDI1JTJGNiUyRmF0dHM1ZFd1Njh5YWljT1BTLnBuZ1x1MDAyNmxvZ28yPSUyRmNtcyUyRjIwMjUlMkY2JTJGYXR0THN1b3liTFpjT1VJem4ucG5nXHUwMDI2cGljPUZvb3RiYWxsXHUwMDI2cXVhbGl0eT11aGRcdTAwMjZ0ZWFtMT1NYW4rVW5pdGVkXHUwMDI2dGVhbTI9QnJpZ2h0b25cdTAwMjZ0ZW1wbGF0ZT10ZWFtdnRlYW0tbGFuZHNjYXBlIn0.0CLUdpB2hem3gWo5T8kQfS6dLIO48wD3tAc4gjHrOvs" group-title="Live",4k - Manchester United v Brighton & Hove Albion - Premier League 2025/2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=An error occurred parsing license content
+
+Expecting value: line 1 column 1 (char 0)
+
+b&#039;Proxy Error
+https://awslive01.stan.video/out/v1/4468a12578314abebb68cce7f6822c90/index.mpd
+
+#EXTINF:-1 tvg-id="5617931" tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY5JTJGYXR0T1RXSG9RNzJZOG9KRUUuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGOSUyRmF0dGVVMnF1Sm44UjRuSFI5LmpwZ1x1MDAyNmJhZGdlPWxpdmVcdTAwMjZjb21wQ29sb3I9ZmY1MDAxXHUwMDI2Y29tcExvZ289JTJGY21zJTJGMjAyNSUyRjklMkZhdHRUeDNISWlmdFJwNnQ4Vi5wbmdcdTAwMjZkZXNjPVBSRU0rUnVnYnkrJUUyJTgwJUEyK1I1XHUwMDI2aDE9UnVnYnlcdTAwMjZoMj1QcmVtaWVyc2hpcCtSdWdieVx1MDAyNmxpdmVFbmREYXRlPTBcdTAwMjZsaXZlU3RhcnREYXRlPTE3NjE0MDk1MTkwMDBcdTAwMjZsb2dvMT0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dFpFb0ZmN2JzenFNajkyLnBuZ1x1MDAyNmxvZ28yPSUyRmNtcyUyRjIwMjQlMkY5JTJGYXR0M2tuS1I2ZkkyVWdSUngucG5nXHUwMDI2cGljPVJ1Z2J5XHUwMDI2dGVhbTE9TGVpY2VzdGVyXHUwMDI2dGVhbTI9U2FsZVx1MDAyNnRlbXBsYXRlPXRlYW12dGVhbS1sYW5kc2NhcGUifQ.Pk8FqE5kVCakZIV5NHS7w3BfZGgQyNOZkZ6J3Tq8bwM" group-title="Live",Leicester v Sale - PREM Rugby Round 5 2025/26
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=An error occurred parsing license content
+
+Expecting value: line 1 column 1 (char 0)
+
+b&#039;&lt;!DOCTYPE html&gt;\n&lt;html lang=&quot;en-us&quot;\n    prefix=&quot;content
+https://awslive01.stan.video/out/v1/40955ba21905449b8b8bfeb0054a19ec/index.mpd
