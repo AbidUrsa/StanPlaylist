@@ -4,3 +4,9 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d41c690abce84d5fbb1cedcf583335c7:115d9880001d15c540b8e86a866fde22
 https://awslive01.stan.video/out/v1/7b3bf8fa6a994d2ab084d947e6fc4095/index.mpd
+
+#EXTINF:-1 tvg-id="5658369" tvg-logo="https://streamcoimg-a.akamaihd.net/000/565/8369/5658369-Banner-L2-ccd39ddc21b3af1cbb5aa8acd5df45b9.jpg~liveStartDate=1761427810000~liveEndDate=0~badge=live" group-title="Live",PL Saturday Wrap: Episode 9 - Oct 26
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=babed654f171480e82f0577084531ce6:b7bbfc6a9ab32142b758288d9fcfcbef
+https://awslive01.stan.video/out/v1/d04df2b6a496417a9ef9b38aaaa09119/index.mpd
