@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="5486937" tvg-logo="https://streamcoimg-a.akamaihd.net/000/548/6937/5486937-Banner-L2-1b2d8f771837265f69b61a408c260cc6.jpg~liveStartDate=1761409381000~liveEndDate=0~badge=live" group-title="Live",Manchester United v Brighton & Hove Albion - Premier League 2025/2026
+#EXTINF:-1 tvg-id="5486850" tvg-logo="https://streamcoimg-a.akamaihd.net/000/548/6850/5486850-Banner-L2-e15f7f953f7925fa5134176a5b2cbf16.jpeg~liveStartDate=1761417976000~liveEndDate=0~badge=live" group-title="Live",Brentford v Liverpool - Premier League 2025/2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3a0307b12fbc4f168c788f5a0ab0f924:f9d97a63b1fbd32b674a609e7ff8e7c1
-https://awslive01.stan.video/out/v1/6de9f8eadfec4beea7fb4c206ca601dd/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=21117cb037614c30bfbf98ca518c9884:d0fe1a7130b46a5ab7a3b1cccf8c5693
+https://awslive01.stan.video/out/v1/c64bfd89e8ed450c8ad3e25964d4165c/index.mpd
