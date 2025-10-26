@@ -1,1 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="5629253" tvg-logo="https://streamcoimg-a.akamaihd.net/000/562/9253/5629253-Banner-L2-d9ee944a7334bb483a222134d2bb9228.jpg~liveStartDate=1761483606000~liveEndDate=0~badge=live" group-title="Live",Goal Rush - Oct 27 Premier League 2025/26
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e73794444cc4fd9a340aefbcc5e0231:0eacffab05d6c946af2e55df901c7bd0
+https://awslive01.stan.video/out/v1/ab6c8ef554de43ed9d4351d57b51120b/index.mpd
