@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="5658938" tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkYxMCUyRmF0dFFkcnR4VHlBbXdBU2RhLmpwZ1x1MDAyNmJhY2tncm91bmRJbWdQb3N0ZXI9JTJGY21zJTJGMjAyNSUyRjEwJTJGYXR0R2tLVmxDQWFNRmFBNFcuanBnXHUwMDI2YmFkZ2U9bGl2ZVx1MDAyNmNvbXBDb2xvcj0zMjc4YzdcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGMTAlMkZhdHRFYzdYbWJ5WVJnZ2dPZS5wbmdcdTAwMjZkZXNjPVVDSStUcmFjaytXb3JsZCtDaGFtcGlvbnNoaXBzXHUwMDI2aDE9Q2hpbGVcdTAwMjZoMj1EYXkrNSstK0FmdGVybm9vblx1MDAyNmxpdmVFbmREYXRlPTBcdTAwMjZsaXZlU3RhcnREYXRlPTE3NjE0OTU2MjAwMDBcdTAwMjZwaWM9Q3ljbGluZ1x1MDAyNnRlbXBsYXRlPWJhc2ljLWxhbmRzY2FwZSJ9.EIx_15pMpUx6lzH-yzkHqIPffrATloxk0Hmum9Airlg" group-title="Live",Day 5 Afternoon - UCI Track World Championships
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e92d68581a1f47c2b60c2872bafd5e1d:f5edad53f2779126b2b93807dd05f826
+https://awslive02.stan.video/out/v1/219fcb53ac3e4086a96e14f78c796ee8/index.mpd
+
 #EXTINF:-1 tvg-id="5658372" tvg-logo="https://streamcoimg-a.akamaihd.net/000/565/8372/5658372-Banner-L2-3f0ef164cf2f5c81616f8ec087917fc8.jpg~liveStartDate=1761505206000~liveEndDate=0~badge=live" group-title="Live",PL Weekend Wrap: Episode 9 - Oct 27
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
