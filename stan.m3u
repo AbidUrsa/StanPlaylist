@@ -1,6 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="5658376" tvg-logo="https://streamcoimg-a.akamaihd.net/000/565/8376/5658376-Banner-L2-4e89fb73014f61a6b0a99c5e6167685b.jpg~liveStartDate=1762110008000~liveEndDate=0~badge=live" group-title="Live",PL Weekend Wrap: Episode 10 - Nov 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9e9d1c8079be4882b71853385716f381:ba350b29c753a3cdf4a5c6104b5a2332
-https://awslive01.stan.video/out/v1/1361a51e9c01401eb0515fd7312aec48/index.mpd
